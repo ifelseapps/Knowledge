@@ -12,7 +12,7 @@
 * [Проекция контента в Angular или затерянная документация по ng-content](https://habr.com/ru/post/491136/)
 * [Компоненты-агностики в Angular](https://habr.com/ru/company/tinkoff/blog/473108/)
 * [Angular 6+ полное руководство по внедрению зависимостей.  providedIn vs providers:[]](https://habr.com/ru/post/429342/)
-* [https://habr.com/ru/company/tinkoff/blog/507906/](https://habr.com/ru/company/tinkoff/blog/507906/)
+* [Используем DI в Angular по максимуму — концепция частных провайдеров](https://habr.com/ru/company/tinkoff/blog/507906/)
 * [10 полезных функций Angular, которые вы упускали](https://habr.com/ru/company/vdsina/blog/487376/)
 * [3 способа рендеринга больших списков в Angular](https://habr.com/ru/company/ruvds/blog/492506/)
 * [SCSS Import Relative to Root](https://stackoverflow.com/questions/42865697/scss-import-relative-to-root/52040060#52040060)
