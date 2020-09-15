@@ -23,7 +23,7 @@
 * [Архитектура приложения Angular. Используем NgModules](https://habr.com/ru/post/351678/)
 
 ## Rx.js
-* [https://habr.com/ru/post/492424/](https://habr.com/ru/post/492424/)
+* [Angular: еще один способ отписываться](https://habr.com/ru/post/492424/)
 * [Rxjs: 6 операторов, которые вы должны знать](http://stepansuvorov.com/blog/2017/03/rxjs-6-операторов-которые-вы-должны-знать/)
 * [RxJS для продолжающих](https://blog.noveogroup.ru/2019/10/rxjs-dlya-prodolzhajuschih/)
 * [RxJS: все о Subjects, Behavior Subjects и Replay Subjects](https://golosay.net/rxjs-subjects/)
