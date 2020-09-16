@@ -21,6 +21,7 @@
 * [Angular 2 ngFor— Not only for Arrays](https://netbasal.com/angular-2-ngfor-array-with-unique-values-6b15478d6484)
 * [Создаем свой компонент с микро-шаблонами](https://habr.com/ru/post/454804/)
 * [Архитектура приложения Angular. Используем NgModules](https://habr.com/ru/post/351678/)
+* [Custom Overlays with Angular's CDK](https://blog.thoughtram.io/angular/2017/11/20/custom-overlays-with-angulars-cdk.html)
 
 ## Rx.js
 * [Angular: еще один способ отписываться](https://habr.com/ru/post/492424/)
